@@ -1,13 +1,13 @@
-# Introduction to Data Science — Final Assignment
+# Introduction to Data Science Final Assignment
 
 This repository contains my final assignment for an **Introduction to Data Science** course, organized into three Jupyter notebooks:
 
-- **Part A — Supervised Learning:** house price prediction (regression)
-- **Part B — Unsupervised Learning:** clustering with DBSCAN on two datasets
-- **Part C — Word Embedding:** sentiment classification with TF‑IDF vs. Word2Vec (and a hybrid model)
+- **Part A - Supervised Learning:** house price prediction (regression)
+- **Part B - Unsupervised Learning:** clustering with DBSCAN on two datasets
+- **Part C - Word Embedding:** sentiment classification with TF‑IDF vs. Word2Vec (and a hybrid model)
 
 
-## Part A — Supervised Learning (Regression)
+## Part A - Supervised Learning (Regression)
 
 **Notebook:** `Supervised Learning.ipynb`  
 **Goal:** Predict `SalePrice` for unseen houses in the test set.
@@ -25,7 +25,7 @@ This repository contains my final assignment for an **Introduction to Data Scien
   - **Local:** **LIME** explanations for individual predictions
 
 
-## Part B — Unsupervised Learning (DBSCAN)
+## Part B - Unsupervised Learning (DBSCAN)
 
 **Notebook:** `Unsupervised Learning.ipynb`  
 **Goal:** Cluster two unlabeled datasets using **DBSCAN**, including parameter search and quantitative evaluation.
@@ -43,7 +43,7 @@ This repository contains my final assignment for an **Introduction to Data Scien
 - Visualization via **PCA** and **t‑SNE**
 
 
-## Part C — Word Embedding (Sentiment Classification)
+## Part C - Word Embedding (Sentiment Classification)
 
 **Notebook:** `Word Embedding.ipynb`  
 **Goal:** Classify review sentiment using different text representations and compare them.
